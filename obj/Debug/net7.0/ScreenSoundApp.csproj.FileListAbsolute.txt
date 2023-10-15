@@ -1,0 +1,29 @@
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\bin\Debug\net7.0\ScreenSoundApp.exe
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\bin\Debug\net7.0\ScreenSoundApp.deps.json
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\bin\Debug\net7.0\ScreenSoundApp.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\bin\Debug\net7.0\ScreenSoundApp.dll
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\bin\Debug\net7.0\ScreenSoundApp.pdb
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\ScreenSoundApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\ScreenSoundApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\ScreenSoundApp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\ScreenSoundApp.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\ScreenSoundApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\ScreenSoundApp.dll
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\refint\ScreenSoundApp.dll
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\ScreenSoundApp.pdb
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\ScreenSoundApp.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\CURSOS\C#\Conceitos_CSharp\ScreenSoundApp\obj\Debug\net7.0\ref\ScreenSoundApp.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\bin\Debug\net7.0\ScreenSoundApp.exe
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\bin\Debug\net7.0\ScreenSoundApp.deps.json
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\bin\Debug\net7.0\ScreenSoundApp.runtimeconfig.json
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\bin\Debug\net7.0\ScreenSoundApp.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\bin\Debug\net7.0\ScreenSoundApp.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\obj\Debug\net7.0\ScreenSoundApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\obj\Debug\net7.0\ScreenSoundApp.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\obj\Debug\net7.0\ScreenSoundApp.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\obj\Debug\net7.0\ScreenSoundApp.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\obj\Debug\net7.0\ScreenSoundApp.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\obj\Debug\net7.0\refint\ScreenSoundApp.dll
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\obj\Debug\net7.0\ScreenSoundApp.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\obj\Debug\net7.0\ScreenSoundApp.genruntimeconfig.cache
+C:\Users\macie\OneDrive\Área de Trabalho\CSharp\AppPlay\obj\Debug\net7.0\ref\ScreenSoundApp.dll
